@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tif:home|Door43 (tif)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tif|d43-tif repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tif/archive/master.zip|d43-tif.zip]]
+
+**Recent Changes**
+{{changes>ns = tif}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tif|Ethnologue data]]
+
